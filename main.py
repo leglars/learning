@@ -19,7 +19,7 @@ import django.dispatch.dispatcher
 # import logging
 #def log_exception(*args, **kwds):
 #    logging.exception('Exception in request:')
-#
+#print testnewbranch
 #django.dispatch.dispatcher.connect(
 #   log_exception, django.core.signals.got_request_exception)
 
